@@ -1,0 +1,226 @@
+[
+  {
+    "Author": "Daviti",
+    "Name": "Geography",
+    "Questions": [
+      {
+        "Text": "Which country is known as the \u0022Land of the Rising Sun\u0022?",
+        "Answers": [
+          "South Korea",
+          "China",
+          "Japan",
+          "Thailand"
+        ],
+        "CorrectAnswer": 3
+      },
+      {
+        "Text": "Which country is home to the Great Barrier Reef?",
+        "Answers": [
+          "Indonesia",
+          "New Zealand",
+          "Australia",
+          "Fiji"
+        ],
+        "CorrectAnswer": 3
+      },
+      {
+        "Text": " What is the longest river in the world?",
+        "Answers": [
+          "Amazoni",
+          "Nile",
+          "Yangtze",
+          "Mississippi"
+        ],
+        "CorrectAnswer": 2
+      },
+      {
+        "Text": "Mount Everest is located in which two countries?",
+        "Answers": [
+          "Nepal and India",
+          "Nepal and China",
+          "China and Pakistan",
+          "India and Bhutan"
+        ],
+        "CorrectAnswer": 2
+      },
+      {
+        "Text": "Which desert is the largest in the world?",
+        "Answers": [
+          "Shara",
+          "Gobi",
+          "Kalashari",
+          "Arabian"
+        ],
+        "CorrectAnswer": 1
+      }
+    ]
+  },
+  {
+    "Author": "Lasha",
+    "Name": "Math",
+    "Questions": [
+      {
+        "Text": "What is the difference between rational and irrational numbers?",
+        "Answers": [
+          "Rational numbers cannot be expressed as fractions, while irrational numbers can.",
+          "Rational numbers can be written as fractions, while irrational numbers cannot.",
+          "Rational numbers are always integers, while irrational numbers are decimals.",
+          "There is no difference between rational and irrational numbers."
+        ],
+        "CorrectAnswer": 2
+      },
+      {
+        "Text": "What is the Pythagorean theorem, and in which type of triangle is it applicable?",
+        "Answers": [
+          "The sum of the squares of the two shorter sides of a triangle is equal to the square of the longest side; it applies to all triangles.",
+          "The square of the hypotenuse equals the sum of the squares of the two legs; it applies to right triangles only.",
+          "The area of a triangle equals the sum of the squares of its three sides; it applies to isosceles",
+          "The sum of the interior angles of a triangle is always 180\u00B0; it applies to equilateral triangles."
+        ],
+        "CorrectAnswer": 1
+      },
+      {
+        "Text": "What is the Pythagorean theorem, and in which type of triangle is it applicable?",
+        "Answers": [
+          "The sum of the squares of the two shorter sides of a triangle is equal to the square of the longest side; it applies to all triangles.",
+          "The square of the hypotenuse equals the sum of the squares of the two legs; it applies to right triangles only.",
+          "The area of a triangle equals the sum of the squares of its three sides; it applies to isosceles triangles.",
+          "The sum of the interior angles of a triangle is always 180\u00B0; it applies to equilateral triangles."
+        ],
+        "CorrectAnswer": 2
+      },
+      {
+        "Text": "What is the difference between permutations and combinations?",
+        "Answers": [
+          "Permutations deal with the arrangement of objects, while combinations deal with the selection of objects without regard to order.",
+          "Permutations are always larger than combinations.",
+          "Combinations are always larger than permutations.",
+          "There is no difference between permutations and combinations."
+        ],
+        "CorrectAnswer": 1
+      },
+      {
+        "Text": "What is the concept of limits in calculus?",
+        "Answers": [
+          "Limits represent the value that a function approaches as the input approaches a certain value.",
+          "Limits represent the maximum value that a function can reach.",
+          "Limits are only used for continuous functions.",
+          "Limits represent the average value of a function."
+        ],
+        "CorrectAnswer": 1
+      }
+    ]
+  },
+  {
+    "Author": "Mariami",
+    "Name": "history",
+    "Questions": [
+      {
+        "Text": "Who was the first President of the United States?",
+        "Answers": [
+          "George Wshington",
+          "Tomas Jefferson",
+          "Abraham Lincoln",
+          "John Adams"
+        ],
+        "CorrectAnswer": 1
+      },
+      {
+        "Text": "In which year did World War II end?",
+        "Answers": [
+          "1941",
+          "1945",
+          "1939",
+          "1918"
+        ],
+        "CorrectAnswer": 2
+      },
+      {
+        "Text": "The Titanic sank on its maiden voyage in which year?",
+        "Answers": [
+          "1900",
+          "1912",
+          "1920",
+          "1898"
+        ],
+        "CorrectAnswer": 2
+      },
+      {
+        "Text": "Who was the famous queen of ancient Egypt?",
+        "Answers": [
+          "Cleopatra",
+          "Nefertiti",
+          "Hatshepsut",
+          "Queen Elizabeth I"
+        ],
+        "CorrectAnswer": 1
+      },
+      {
+        "Text": "The Berlin Wall fell in which year?",
+        "Answers": [
+          "1989",
+          "1975",
+          "1961",
+          "1992"
+        ],
+        "CorrectAnswer": 1
+      }
+    ]
+  },
+  {
+    "Author": "Nino",
+    "Name": "English",
+    "Questions": [
+      {
+        "Text": "Which of the following is a synonym for \u0022happy\u0022?",
+        "Answers": [
+          "Sad",
+          "Joyful",
+          "Angry",
+          "Bored"
+        ],
+        "CorrectAnswer": 2
+      },
+      {
+        "Text": "What is the correct past tense of the verb \u0022go\u0022?",
+        "Answers": [
+          "goed",
+          "went",
+          "going",
+          "goed"
+        ],
+        "CorrectAnswer": 2
+      },
+      {
+        "Text": "Choose the correctly punctuated sentence:",
+        "Answers": [
+          " I love cooking, reading and writing.",
+          "I love cooking reading, and writing.",
+          "I love cooking, reading, and writing.",
+          "I love cooking reading and writing."
+        ],
+        "CorrectAnswer": 3
+      },
+      {
+        "Text": "Which of these is a compound sentence?",
+        "Answers": [
+          "I went to the store and bought some apples.",
+          " I went to the store.",
+          " I bought some apples.",
+          "I went to the store because it was raining."
+        ],
+        "CorrectAnswer": 1
+      },
+      {
+        "Text": "Which word is an adjective?",
+        "Answers": [
+          "Slowly",
+          "Beautiful",
+          "Run",
+          "Quickly"
+        ],
+        "CorrectAnswer": 2
+      }
+    ]
+  }
+]
